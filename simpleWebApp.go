@@ -25,7 +25,8 @@ func main() {
 		})
 	})
 
-	r.Run(":" + envs["PORT"])
+	// r.Run(":" + envs["PORT"])
+	r.Run()
 }
 
 func CORSMiddleware() gin.HandlerFunc {
