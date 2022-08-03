@@ -1,7 +1,6 @@
-# Go(Gin) deploy docker container to Kubernertes on Localhost
+# Go(Gin) deploy docker container to Kubernertes on localhost
 ## Installation
 
-Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
 
 ```sh
 git clone this project
